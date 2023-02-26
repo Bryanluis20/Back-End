@@ -1,0 +1,4 @@
+package abstractfactory
+
+class EmployeeServiceWSImpl {
+}
