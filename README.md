@@ -1,4 +1,4 @@
-# Back-End
+# PATRONES DE DISEÑO 
 proyecto de la materia de backend
 
 Nombre: Bryan Luis Pienda,       
