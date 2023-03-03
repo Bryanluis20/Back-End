@@ -1,5 +1,5 @@
 # PATRONES DE DISEÑO 
-proyecto de la materia de backend
+Patrones de diseño
 
 Nombre: Bryan Luis Pienda,       
      Nuemro de control: 19920162,       
