@@ -2,5 +2,5 @@
 Patrones de diseño
 
 Nombre: Bryan Luis Pienda,       
-     Nuemro de control: 19920162,       
+     Numero de control: 19920162,       
           grupo: IA8
