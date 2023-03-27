@@ -1,5 +1,5 @@
 package builder
-//no se ha corrido
+
 fun main(){
     val employee = Employee.Builder()
         .setName("Lucia Perez Perez")
@@ -10,7 +10,7 @@ fun main(){
         .addContacts("Juan Perez", "1122334455", "123", "Casa",
             "Chapultepect No. 123 Col. Militar", "México"
             , "México", "10023")
-        .addContacts("Rocio Perez", "3344556677", null, "Celular")
+        .addContacts("Jose Martinez", "3344556677", null, "Celular")
         .addPhones("4567890234", null, "Celular")
         .addPhones("7788990099", null, "Casa")
         .build()
